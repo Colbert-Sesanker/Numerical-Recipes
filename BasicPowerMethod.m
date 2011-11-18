@@ -10,7 +10,7 @@ y=A*x;
 mu=y(p);
 p=find(abs(y)==norm(y,inf),1);
 if y(p)==0
-    'eigenvecotr x eigenvalue 0'
+    'eigenvector x eigenvalue 0'
 end
 er=norm((x-(y./y(p))),inf);
 x=y./y(p);
