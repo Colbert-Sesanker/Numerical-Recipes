@@ -1,6 +1,8 @@
 %%%%% Basic Power method%%%%%% 
 %%Author: Colbert Sesanker
-function [lM]= P(x,A,it,tol)
+function [lM]= P(x,A,it,tol) %x is the transpose of eigenvector guess
+                             %A is the matrix, it the number of iterations
+                             %tol the error tolerance
 p=find(abs(x)==norm(x,inf),1);
 x=x./x(p);
 k=1;
