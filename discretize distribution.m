@@ -1,12 +1,12 @@
-#!/usr/bin/octave
+#!/usr/bin/octave # Make executalbe from octave $PATH
 
 #Author Colbert Sesanker 9/15/11
-#
+#Points is the number of discrete points used to approximate the continous distribution, f.
 
 function thrown = basket(points,a,b,bins)
 dx = (b-a)/bins;
-% x = a:1/grid:b;
-total = quad("f",a,b);              % Integrate distribution f, defined below, over [a,b]
+total = quad("f",a,b);              % Integrate distribution f, defined below, over [a,b]. 
+                                    % quad is an octave function that performs Runge Kutta Integration
 k=0;
 
 for i=1:bins
