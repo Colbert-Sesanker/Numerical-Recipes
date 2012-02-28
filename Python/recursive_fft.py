@@ -1,4 +1,5 @@
-# Colbert Sesanker, 2012, used in Project Connjur-SE
+# Colbert Sesanker, 2012, fft used in Project Connjur-SE
+# minimal dependencies for GAE cloud use
 
 import math
 
@@ -21,7 +22,28 @@ def complex_fft(x):
         X[M+k] = X_even[k] - X_odd[k] * twiddle   
     return X
 
-def fft(x):
-    complex_spectrum = complex_fft(x)
-    return map(abs, complex_spectrum)
-    
+def fft(x):   
+    if (complex_fft(x) == 0):
+        return "input data size not a power of two"       
+    return map(abs, complex_fft(x))
+
+def fft_test():
+    return fft([math.sin(x) for x in range(16)])
+
+def nextPow2(num):     
+    for l in map(lambda x: num - x, [2**i for i in range(35)]):
+        if (l <= 0):    
+            return num - l  
+
+def parse(sched):
+    s = [[0]*nextPow2(max([x[0] for x in sched])) for l in range(nextPow2(max([x[1] for x in sched])))] 
+    for i in sched:        
+        s[i[1]-1] [i[0]-1] = 1   # point [x,y] = s[y][x]
+    return s   
+
+def fft2(x):
+    return map(fft, map(list, zip(*map(fft, parse(x))) ) )
+
+
+
+
