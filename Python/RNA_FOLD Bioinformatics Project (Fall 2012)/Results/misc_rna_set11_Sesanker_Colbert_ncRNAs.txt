@@ -1,0 +1,91 @@
+Region 1:
+ 
+
+
+Region 2:
+ 
+
+
+Region 3:
+ 
+
+
+Region 4:
+ 
+
+
+Region 5:
+ 
+
+
+Region 6:
+ 
+
+
+Region 7:
+ 
+
+
+Region 8:
+ 
+
+
+Region 9:
+ -3.9539579474416633, gaagtccttgattcgatgcaaccggttgcatctatccacatcccttccagccaatctcccagggctgtggaaagcttcat
+ 
+
+
+Region 10:
+ 
+
+
+Region 11:
+ 
+
+
+Region 12:
+ 
+
+
+Region 13:
+ -3.7992465688633144, atggcggaatcttttgtatgggatatcctttctctggaggaaaaattccgtgcgaactactatctcaccgccgtattaac
+ -3.541838575948226, tgagaggcggtgtcccaccattatatggatggccgcccgagtggttgtcttgatcatggcggaatcttttgtatgggatatcctttctctggaggaaaaattccgtgcgaactactatctcaccgccgtattaaccatcataaagatcactttctgaaca
+ -4.364868430562775, ggcggtgtcccaccattatatggatggccgcccgagtggttgtcttgatcatggcggaatcttttgtatgggatatcctttctctggaggaaaaattccgtgcgaactactatctcaccgccgtattaaccatcataaagatcactttctgaacaaaaac
+ 
+
+
+Region 14:
+ 
+
+
+Region 15:
+ -4.080054696394038, tatatgtagcgacagaaacataatttgggaaggatgaggcagtcatacgtgcataaacgtaatcggccattccttccaac
+ -3.6150715928788433, tatatgtagcgacagaaacataatttgggaaggatgaggcagtcatacgtgcataaacgtaatcggccattccttccaacgatgtactcatcccataactctagtacatctcctacgtcg
+ -4.8310567954891175, gtagcgacagaaacataatttgggaaggatgaggcagtcatacgtgcataaacgtaatcggccattccttccaacgatgtactcatcccataactctagtacatctcctacgtcgcgatc
+ 
+
+
+Region 16:
+ -4.52630245948424, ccaaaatgtctccttcaggacctaatagtacagccgatcgagtatacctgacagcataaactgtcagctgctactttggtccgctatttctggccttgacatcactgggaagacatttct
+ -3.697574215808554, ctgctcgatctgaagtcttaacattttatctttttgagccccaaaatgtctccttcaggacctaatagtacagccgatcgagtatacctgacagcataaactgtcagctgctactttggtccgctatttctggccttgacatcactgggaagacatttct
+ -3.7248778008400807, tttttgagccccaaaatgtctccttcaggacctaatagtacagccgatcgagtatacctgacagcataaactgtcagctgctactttggtccgctatttctggccttgacatcactgggaagacatttctcgtgctgctaccatcttttatgttaagggatatccctttcatagcgcaaccaatgcgatactgcaccata
+ -3.605302476538124, gagccccaaaatgtctccttcaggacctaatagtacagccgatcgagtatacctgacagcataaactgtcagctgctactttggtccgctatttctggccttgacatcactgggaagacatttctcgtgctgctaccatcttttatgttaagggatatccctttcatagcgcaaccaatgcgatactgcaccataaacca
+ -4.060680370375649, ccaaaatgtctccttcaggacctaatagtacagccgatcgagtatacctgacagcataaactgtcagctgctactttggtccgctatttctggccttgacatcactgggaagacatttctcgtgctgctaccatcttttatgttaagggatatccctttcatagcgcaaccaatgcgatactgcaccataaaccataatg
+ 
+
+
+Region 17:
+ 
+
+
+Region 18:
+ -3.54134597010751, gataagtgggtgctcgaagtgatgtgacatggccgtacggccattgcattacagcgtccctcatcggtatgtctaccgac
+ 
+
+
+Region 19:
+ 
+
+
+Region 20:
+
