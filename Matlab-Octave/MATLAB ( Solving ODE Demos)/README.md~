@@ -1,9 +1,11 @@
-# Solving ODEs in Matlab
-
-  Contains three models and one script 
-  Explains how :
-  1. integration tolerances effect integration times
-  2. how to repeatedly integrate a system of ODEs with differnt parameter values
-  3. practical issues somewhat specific to MATLAB and MATLAB solvers
+# Solving ODEs in Matlab  
   
-  5/25/2015 MATLAB R2015a
+#Explains:
+   1. How integration tolerances effect integration times
+   2. How to repeatedly integrate a system of ODEs with differnt parameter values
+   3. Practical issues somewhat specific to MATLAB solvers
+  
+#Contains:
+   Three models and one script
+  
+   5/25/2015 MATLAB R2015a
