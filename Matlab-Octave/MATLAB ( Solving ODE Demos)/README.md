@@ -1,4 +1,7 @@
 # Solving ODEs in Matlab  
+
+#For:
+   Duke Mathematical Biology Workshop 2015  
   
 #Explains:
    1. How integration tolerances effect integration times
